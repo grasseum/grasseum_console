@@ -1,0 +1,29 @@
+{
+  "name": "grasseum_console",
+  "version": "1.2.1",
+  "description": "Grasseum console",
+  "main": "main.js",
+  "scripts": {
+<<<<<<< Updated upstream
+    "es_linter": "eslint lib/event/*.js  *.js --fix"
+=======
+    "es_linter": "eslint *.js --fix"
+>>>>>>> Stashed changes
+  },
+  "keywords": [
+    "Streaming build library"
+  ],
+  "dependencies": {
+
+  },
+  "author": "Pein Freccs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grasseum/grasseum_console.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grasseum/grasseum_console/issues"
+  },
+  "homepage": "https://github.com/grasseum/grasseum_console#readme"
+}
