@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-// Const stream_event = require("./lib/event/stream_event");
-=======
 const structkit = require("structkit");
 
 exports.logGreen = function (...args) {
@@ -57,4 +54,3 @@ exports.getCwdParameter = function (cwd) {
     return glb;
 
 };
->>>>>>> Stashed changes
